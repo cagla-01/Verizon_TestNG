@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Smoke Suite">
+  <test name="Smoke Test">
+    <classes>
+      <class name="com.qa.verizon.tests.MainPageTest">
+      <methods>
+      <exclude name="getPageTitle"/>
+      <exclude name="goShop"/>
+      <include name="clickSmartPhones"/>
+      
+      
+      </methods>
+    </class>
+      <class name="com.qa.verizon.tests.SmartPhoneTestPage">
+      
+        <methods>
+      <exclude name="getURL"/>
+      <exclude name="getTitle"/>
+      <include name="selectPhone"/>
+    
+      </methods>
+  
+      </class>
+       <class name="com.qa.verizon.tests.PreOrderPageTest">
+         <methods>
+      <exclude name="getTitle"/>
+      <exclude name="selectPhoneFeature"/>
+      <exclude name="verfyURL"/>
+     <include name="handleZipCode"/>
+     <include name= "hanleCustemerType"/>
+    
+      </methods>
+  
+      </class>
+      <class name="com.qa.verizon.tests.CartPageTest">
+        <methods>
+      <exclude name="verfySelectedPhone"/>
+      <exclude name="verifyURL"/>
+    
+    
+      </methods>
+  
+      </class>
+     
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

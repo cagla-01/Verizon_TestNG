@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression Suite">
+  <test  name="Regression Test">
+    <classes>
+      <class name="com.qa.verizon.tests.MainPageTest"/>
+      <class name="com.qa.verizon.tests.SmartPhoneTestPage"/>
+       <class name="com.qa.verizon.tests.CartPageTest"/>
+      <class name="com.qa.verizon.tests.PhoneTest"/>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="13" passed="13">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Regression Suite" duration-ms="136154" started-at="2020-10-13T23:08:23Z" finished-at="2020-10-13T23:10:39Z">
+    <groups>
+    </groups>
+    <test name="Regression Test" duration-ms="136154" started-at="2020-10-13T23:08:23Z" finished-at="2020-10-13T23:10:39Z">
+      <class name="com.qa.verizon.tests.PhoneTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.verizon.tests.PhoneTest@6a41eaa2]" name="setUp" is-config="true" duration-ms="10800" started-at="2020-10-13T23:08:52Z" finished-at="2020-10-13T23:09:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getTitle()[pri:1, instance:com.qa.verizon.tests.PhoneTest@6a41eaa2]" name="getTitle" duration-ms="3044" started-at="2020-10-13T23:09:02Z" description="Verify PreOrder Page title" finished-at="2020-10-13T23:09:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.verizon.tests.PhoneTest@6a41eaa2]" name="tearDown" is-config="true" duration-ms="129" started-at="2020-10-13T23:09:05Z" finished-at="2020-10-13T23:09:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.verizon.tests.PhoneTest@6a41eaa2]" name="setUp" is-config="true" duration-ms="9825" started-at="2020-10-13T23:09:35Z" finished-at="2020-10-13T23:09:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verfyURL()[pri:2, instance:com.qa.verizon.tests.PhoneTest@6a41eaa2]" name="verfyURL" duration-ms="7" started-at="2020-10-13T23:09:45Z" description="verify page URL" finished-at="2020-10-13T23:09:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfyURL -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.verizon.tests.PhoneTest@6a41eaa2]" name="tearDown" is-config="true" duration-ms="114" started-at="2020-10-13T23:09:45Z" finished-at="2020-10-13T23:09:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.verizon.tests.PhoneTest@6a41eaa2]" name="setUp" is-config="true" duration-ms="10519" started-at="2020-10-13T23:10:00Z" finished-at="2020-10-13T23:10:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="selectPhoneFeature()[pri:3, instance:com.qa.verizon.tests.PhoneTest@6a41eaa2]" name="selectPhoneFeature" duration-ms="1973" started-at="2020-10-13T23:10:11Z" description="selected phone color size and price" finished-at="2020-10-13T23:10:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectPhoneFeature -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.verizon.tests.PhoneTest@6a41eaa2]" name="tearDown" is-config="true" duration-ms="125" started-at="2020-10-13T23:10:13Z" finished-at="2020-10-13T23:10:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.verizon.tests.PhoneTest@6a41eaa2]" name="setUp" is-config="true" duration-ms="8585" started-at="2020-10-13T23:10:13Z" finished-at="2020-10-13T23:10:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="handleZipCode()[pri:4, instance:com.qa.verizon.tests.PhoneTest@6a41eaa2]" name="handleZipCode" duration-ms="3594" started-at="2020-10-13T23:10:22Z" description="handle zipcode section" finished-at="2020-10-13T23:10:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handleZipCode -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.verizon.tests.PhoneTest@6a41eaa2]" name="tearDown" is-config="true" duration-ms="131" started-at="2020-10-13T23:10:25Z" finished-at="2020-10-13T23:10:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.verizon.tests.PhoneTest@6a41eaa2]" name="setUp" is-config="true" duration-ms="8156" started-at="2020-10-13T23:10:25Z" finished-at="2020-10-13T23:10:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="handleCustomerType()[pri:5, instance:com.qa.verizon.tests.PhoneTest@6a41eaa2]" name="handleCustomerType" duration-ms="4980" started-at="2020-10-13T23:10:34Z" description="click new customer section" finished-at="2020-10-13T23:10:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handleCustomerType -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.verizon.tests.PhoneTest@6a41eaa2]" name="tearDown" is-config="true" duration-ms="177" started-at="2020-10-13T23:10:38Z" finished-at="2020-10-13T23:10:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.verizon.tests.PhoneTest -->
+      <class name="com.qa.verizon.tests.MainPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.verizon.tests.MainPageTest@604ed9f0]" name="setUp" is-config="true" duration-ms="3897" started-at="2020-10-13T23:08:23Z" finished-at="2020-10-13T23:08:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getPageTitle()[pri:1, instance:com.qa.verizon.tests.MainPageTest@604ed9f0]" name="getPageTitle" duration-ms="20" started-at="2020-10-13T23:08:26Z" description="verify main page title" finished-at="2020-10-13T23:08:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.verizon.tests.MainPageTest@604ed9f0]" name="tearDown" is-config="true" duration-ms="92" started-at="2020-10-13T23:08:26Z" finished-at="2020-10-13T23:08:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.verizon.tests.MainPageTest@604ed9f0]" name="setUp" is-config="true" duration-ms="2615" started-at="2020-10-13T23:09:06Z" finished-at="2020-10-13T23:09:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="goShop()[pri:2, instance:com.qa.verizon.tests.MainPageTest@604ed9f0]" name="goShop" duration-ms="235" started-at="2020-10-13T23:09:08Z" description="navigate shop button" finished-at="2020-10-13T23:09:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goShop -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.verizon.tests.MainPageTest@604ed9f0]" name="tearDown" is-config="true" duration-ms="97" started-at="2020-10-13T23:09:08Z" finished-at="2020-10-13T23:09:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.verizon.tests.MainPageTest@604ed9f0]" name="setUp" is-config="true" duration-ms="2363" started-at="2020-10-13T23:09:45Z" finished-at="2020-10-13T23:09:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickSmartPhones()[pri:3, instance:com.qa.verizon.tests.MainPageTest@604ed9f0]" name="clickSmartPhones" duration-ms="2114" started-at="2020-10-13T23:09:47Z" description="click smart phone button" finished-at="2020-10-13T23:09:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickSmartPhones -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.verizon.tests.MainPageTest@604ed9f0]" name="tearDown" is-config="true" duration-ms="92" started-at="2020-10-13T23:09:49Z" finished-at="2020-10-13T23:09:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.verizon.tests.MainPageTest -->
+      <class name="com.qa.verizon.tests.CartPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.verizon.tests.CartPageTest@685cb137]" name="setUp" is-config="true" duration-ms="14811" started-at="2020-10-13T23:08:36Z" finished-at="2020-10-13T23:08:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyURL()[pri:1, instance:com.qa.verizon.tests.CartPageTest@685cb137]" name="verifyURL" duration-ms="415" started-at="2020-10-13T23:08:51Z" description="verify URL" finished-at="2020-10-13T23:08:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyURL -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.verizon.tests.CartPageTest@685cb137]" name="tearDown" is-config="true" duration-ms="135" started-at="2020-10-13T23:08:51Z" finished-at="2020-10-13T23:08:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.verizon.tests.CartPageTest@685cb137]" name="setUp" is-config="true" duration-ms="14770" started-at="2020-10-13T23:09:18Z" finished-at="2020-10-13T23:09:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verfySelectedPhone()[pri:2, instance:com.qa.verizon.tests.CartPageTest@685cb137]" name="verfySelectedPhone" duration-ms="1858" started-at="2020-10-13T23:09:33Z" description="verify selected phone" finished-at="2020-10-13T23:09:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfySelectedPhone -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.verizon.tests.CartPageTest@685cb137]" name="tearDown" is-config="true" duration-ms="143" started-at="2020-10-13T23:09:35Z" finished-at="2020-10-13T23:09:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.verizon.tests.CartPageTest -->
+      <class name="com.qa.verizon.tests.SmartPhoneTestPage">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.verizon.tests.SmartPhoneTestPage@6a4f787b]" name="setUp" is-config="true" duration-ms="9508" started-at="2020-10-13T23:08:27Z" finished-at="2020-10-13T23:08:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getURL()[pri:1, instance:com.qa.verizon.tests.SmartPhoneTestPage@6a4f787b]" name="getURL" duration-ms="28" started-at="2020-10-13T23:08:36Z" description="verify SmartPhonePage url" finished-at="2020-10-13T23:08:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getURL -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.verizon.tests.SmartPhoneTestPage@6a4f787b]" name="tearDown" is-config="true" duration-ms="118" started-at="2020-10-13T23:08:36Z" finished-at="2020-10-13T23:08:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.verizon.tests.SmartPhoneTestPage@6a4f787b]" name="setUp" is-config="true" duration-ms="9414" started-at="2020-10-13T23:09:08Z" finished-at="2020-10-13T23:09:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getTitle()[pri:2, instance:com.qa.verizon.tests.SmartPhoneTestPage@6a4f787b]" name="getTitle" duration-ms="38" started-at="2020-10-13T23:09:18Z" description="verify SmartPhonePage title" finished-at="2020-10-13T23:09:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.verizon.tests.SmartPhoneTestPage@6a4f787b]" name="tearDown" is-config="true" duration-ms="112" started-at="2020-10-13T23:09:18Z" finished-at="2020-10-13T23:09:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.verizon.tests.SmartPhoneTestPage@6a4f787b]" name="setUp" is-config="true" duration-ms="9518" started-at="2020-10-13T23:09:49Z" finished-at="2020-10-13T23:09:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="selectPhone()[pri:3, instance:com.qa.verizon.tests.SmartPhoneTestPage@6a4f787b]" name="selectPhone" duration-ms="1446" started-at="2020-10-13T23:09:59Z" description="select a phone" finished-at="2020-10-13T23:10:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectPhone -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.verizon.tests.SmartPhoneTestPage@6a4f787b]" name="tearDown" is-config="true" duration-ms="113" started-at="2020-10-13T23:10:00Z" finished-at="2020-10-13T23:10:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.verizon.tests.SmartPhoneTestPage -->
+    </test> <!-- Regression Test -->
+  </suite> <!-- Regression Suite -->
+</testng-results>
